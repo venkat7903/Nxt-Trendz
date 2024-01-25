@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.cart-route {
+  min-height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cart-img {
+  width: 200px;
+}

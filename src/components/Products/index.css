@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.products-route {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+}
+
+.products-sec-img {
+  width: 200px;
+}
